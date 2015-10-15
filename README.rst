@@ -32,7 +32,7 @@ Or, if available, install the Debian/Ubuntu package from `apt.mopidy.com
 <http://apt.mopidy.com/>`_.
 
 
-Configuration
+Configurationn
 =============
 
 Before starting Mopidy, you must add configuration for
